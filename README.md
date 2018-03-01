@@ -1,1 +1,1 @@
-# PCT
+# ParallelComputingTechnologies
