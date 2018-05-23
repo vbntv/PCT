@@ -2,6 +2,7 @@
 #include <math.h>
 #include <omp.h>
 
+// gcc -fopenmp -Wall -o montecarlo monte-carlo.c -lm
 
 
 
